@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Mi-Aula-de-Musica-Web/static/css/main.4c1aa05a.css",
-    "main.js": "/Mi-Aula-de-Musica-Web/static/js/main.c70887c4.js",
-    "static/js/952.f8c70fd6.chunk.js": "/Mi-Aula-de-Musica-Web/static/js/952.f8c70fd6.chunk.js",
-    "static/media/logo.png": "/Mi-Aula-de-Musica-Web/static/media/logo.17b589cae658ed0c5f84.png",
-    "static/media/profesor.jpg": "/Mi-Aula-de-Musica-Web/static/media/profesor.ca20e25894375b9c9c13.jpg",
-    "static/media/teoriaHerrera.jpg": "/Mi-Aula-de-Musica-Web/static/media/teoriaHerrera.3e6787848d22bb1c8c52.jpg",
-    "static/media/lenguajeMusical.jpg": "/Mi-Aula-de-Musica-Web/static/media/lenguajeMusical.a894b6d9da16e8ee22ba.jpg",
-    "static/media/mozart.jpg": "/Mi-Aula-de-Musica-Web/static/media/mozart.ec5bbc7d5041189ab434.jpg",
-    "static/media/academias.jpg": "/Mi-Aula-de-Musica-Web/static/media/academias.9fbb9c73f5e1c038eab1.jpg",
-    "static/media/instrumentos.jpg": "/Mi-Aula-de-Musica-Web/static/media/instrumentos.d0a57c67b3ffa6c112e3.jpg",
-    "static/media/microfono.jpg": "/Mi-Aula-de-Musica-Web/static/media/microfono.19ca77ab4a5c98d75e1d.jpg",
-    "static/media/forma.jpg": "/Mi-Aula-de-Musica-Web/static/media/forma.0ff23cdee1ec31a60f25.jpg",
-    "static/media/libros.jpg": "/Mi-Aula-de-Musica-Web/static/media/libros.185ad3865727b897bcb8.jpg",
-    "static/media/infoImg.jpg": "/Mi-Aula-de-Musica-Web/static/media/infoImg.cb25e28bc8c01c5546e6.jpg",
-    "static/media/cancionero.jpg": "/Mi-Aula-de-Musica-Web/static/media/cancionero.6201e02adb1a473dbb8c.jpg",
-    "static/media/parlante.jpg": "/Mi-Aula-de-Musica-Web/static/media/parlante.875860b1e1da471bcc8e.jpg",
-    "static/media/logoPortada.png": "/Mi-Aula-de-Musica-Web/static/media/logoPortada.4fa0fceaac52a2f36dc6.png",
-    "index.html": "/Mi-Aula-de-Musica-Web/index.html",
-    "main.4c1aa05a.css.map": "/Mi-Aula-de-Musica-Web/static/css/main.4c1aa05a.css.map",
-    "main.c70887c4.js.map": "/Mi-Aula-de-Musica-Web/static/js/main.c70887c4.js.map",
-    "952.f8c70fd6.chunk.js.map": "/Mi-Aula-de-Musica-Web/static/js/952.f8c70fd6.chunk.js.map"
+    "main.css": "/static/css/main.4c1aa05a.css",
+    "main.js": "/static/js/main.f88de8e2.js",
+    "static/js/952.f8c70fd6.chunk.js": "/static/js/952.f8c70fd6.chunk.js",
+    "static/media/logo.png": "/static/media/logo.17b589cae658ed0c5f84.png",
+    "static/media/profesor.jpg": "/static/media/profesor.ca20e25894375b9c9c13.jpg",
+    "static/media/teoriaHerrera.jpg": "/static/media/teoriaHerrera.3e6787848d22bb1c8c52.jpg",
+    "static/media/lenguajeMusical.jpg": "/static/media/lenguajeMusical.a894b6d9da16e8ee22ba.jpg",
+    "static/media/mozart.jpg": "/static/media/mozart.ec5bbc7d5041189ab434.jpg",
+    "static/media/academias.jpg": "/static/media/academias.9fbb9c73f5e1c038eab1.jpg",
+    "static/media/instrumentos.jpg": "/static/media/instrumentos.d0a57c67b3ffa6c112e3.jpg",
+    "static/media/microfono.jpg": "/static/media/microfono.19ca77ab4a5c98d75e1d.jpg",
+    "static/media/forma.jpg": "/static/media/forma.0ff23cdee1ec31a60f25.jpg",
+    "static/media/libros.jpg": "/static/media/libros.185ad3865727b897bcb8.jpg",
+    "static/media/infoImg.jpg": "/static/media/infoImg.cb25e28bc8c01c5546e6.jpg",
+    "static/media/cancionero.jpg": "/static/media/cancionero.6201e02adb1a473dbb8c.jpg",
+    "static/media/parlante.jpg": "/static/media/parlante.875860b1e1da471bcc8e.jpg",
+    "static/media/logoPortada.png": "/static/media/logoPortada.4fa0fceaac52a2f36dc6.png",
+    "index.html": "/index.html",
+    "main.4c1aa05a.css.map": "/static/css/main.4c1aa05a.css.map",
+    "main.f88de8e2.js.map": "/static/js/main.f88de8e2.js.map",
+    "952.f8c70fd6.chunk.js.map": "/static/js/952.f8c70fd6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c1aa05a.css",
-    "static/js/main.c70887c4.js"
+    "static/js/main.f88de8e2.js"
   ]
 }
