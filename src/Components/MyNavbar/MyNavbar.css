@@ -1,0 +1,20 @@
+
+
+.logoNav{
+    width: 50px;
+}
+
+.navBar{
+    background-color: #018F98; 
+}
+
+.navBar .navbar-brand {
+    color: white !important;  /* O el color que prefieras */
+    font-size: 20px; /* Ajusta el tamaño */
+    font-weight: bold;
+}
+
+.navBar .nav-link {
+    color: white !important; /* Cambia el color del texto */
+    font-size: 18px;
+}

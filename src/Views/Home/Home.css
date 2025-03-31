@@ -1,0 +1,61 @@
+
+
+.contGralHome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #C2E8ED ;
+padding: 50px;
+ gap: 50px;
+   
+}
+
+.contImgSuperior{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+     align-items: center;
+    width: 100%;
+    
+   
+    gap: 15px;
+   
+}
+
+.logoHome{
+    width: 300px;
+
+}
+
+/* Media query para pantallas pequeñas (móviles) */
+@media screen and (max-width: 768px) {
+    .contGralHome {
+        height: auto; /* Ajustamos la altura para que no sea fija en móviles */
+        padding: 20px;
+    }
+
+    .contImgSuperior {
+        flex-direction: column; /* Cambiamos la dirección de los elementos a columna en pantallas pequeñas */
+        height: auto; /* Dejamos que la altura se ajuste según el contenido */
+    }
+}
+
+/* Media query para tabletas (pantallas medianas) */
+@media screen and (max-width: 1024px) {
+    .contGralHome {
+        padding: 15px;
+    }
+
+    .contImgSuperior {
+        gap: 10px;
+    }
+}
+
+/* Estilos por defecto para pantallas grandes (escritorio) */
+@media screen and (min-width: 1025px) {
+    .contImgSuperior {
+        gap: 20px; /* Más espacio entre los elementos en pantallas grandes */
+    }
+}
+

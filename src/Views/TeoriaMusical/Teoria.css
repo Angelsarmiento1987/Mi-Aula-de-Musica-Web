@@ -1,0 +1,19 @@
+
+
+.contGral{
+    display: flex;
+    justify-content: center;
+   
+    background-color:  #C2E8ED ;
+    align-items: center;
+    padding: 20px;
+}
+
+.contOpciones{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 80vw;
+}

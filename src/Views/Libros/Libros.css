@@ -1,0 +1,27 @@
+
+
+.contGralLibros{
+    background-color: #C2E8ED ;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contBotones{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 20px;
+    height: 60vh;
+    overflow-y: auto; /* Activa el scroll vertical */
+}
+
+.btn{
+    background-color:#FD8933 ;
+}
+
+.titulo{
+    color: #018F98;
+}
