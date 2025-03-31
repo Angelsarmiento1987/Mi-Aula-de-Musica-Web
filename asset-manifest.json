@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mi-Aula-de-Musica-Web/static/css/main.4c1aa05a.css",
-    "main.js": "/Mi-Aula-de-Musica-Web/static/js/main.bcb7e293.js",
+    "main.js": "/Mi-Aula-de-Musica-Web/static/js/main.e5711190.js",
     "static/js/952.f8c70fd6.chunk.js": "/Mi-Aula-de-Musica-Web/static/js/952.f8c70fd6.chunk.js",
     "static/media/logo.png": "/Mi-Aula-de-Musica-Web/static/media/logo.17b589cae658ed0c5f84.png",
     "static/media/profesor.jpg": "/Mi-Aula-de-Musica-Web/static/media/profesor.ca20e25894375b9c9c13.jpg",
@@ -19,11 +19,11 @@
     "static/media/logoPortada.png": "/Mi-Aula-de-Musica-Web/static/media/logoPortada.4fa0fceaac52a2f36dc6.png",
     "index.html": "/Mi-Aula-de-Musica-Web/index.html",
     "main.4c1aa05a.css.map": "/Mi-Aula-de-Musica-Web/static/css/main.4c1aa05a.css.map",
-    "main.bcb7e293.js.map": "/Mi-Aula-de-Musica-Web/static/js/main.bcb7e293.js.map",
+    "main.e5711190.js.map": "/Mi-Aula-de-Musica-Web/static/js/main.e5711190.js.map",
     "952.f8c70fd6.chunk.js.map": "/Mi-Aula-de-Musica-Web/static/js/952.f8c70fd6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c1aa05a.css",
-    "static/js/main.bcb7e293.js"
+    "static/js/main.e5711190.js"
   ]
 }
