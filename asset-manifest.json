@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d50f39f2.css",
-    "main.js": "/static/js/main.98953e75.js",
+    "main.css": "/static/css/main.022ec270.css",
+    "main.js": "/static/js/main.aab77f01.js",
     "static/js/952.f8c70fd6.chunk.js": "/static/js/952.f8c70fd6.chunk.js",
     "static/media/logo.png": "/static/media/logo.17b589cae658ed0c5f84.png",
     "static/media/profesor.jpg": "/static/media/profesor.ca20e25894375b9c9c13.jpg",
@@ -16,14 +16,15 @@
     "static/media/infoImg.jpg": "/static/media/infoImg.cb25e28bc8c01c5546e6.jpg",
     "static/media/cancionero.jpg": "/static/media/cancionero.6201e02adb1a473dbb8c.jpg",
     "static/media/parlante.jpg": "/static/media/parlante.875860b1e1da471bcc8e.jpg",
+    "static/media/logoAppCelu.jpg": "/static/media/logoAppCelu.8c42b34c6d5b3178a9ce.jpg",
     "static/media/logoPortada.png": "/static/media/logoPortada.4fa0fceaac52a2f36dc6.png",
     "index.html": "/index.html",
-    "main.d50f39f2.css.map": "/static/css/main.d50f39f2.css.map",
-    "main.98953e75.js.map": "/static/js/main.98953e75.js.map",
+    "main.022ec270.css.map": "/static/css/main.022ec270.css.map",
+    "main.aab77f01.js.map": "/static/js/main.aab77f01.js.map",
     "952.f8c70fd6.chunk.js.map": "/static/js/952.f8c70fd6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d50f39f2.css",
-    "static/js/main.98953e75.js"
+    "static/css/main.022ec270.css",
+    "static/js/main.aab77f01.js"
   ]
 }
